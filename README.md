@@ -1,2 +1,2 @@
 # BMEN509
-Assignment 1 
+BMEN 501 - An Introduction to Biomedical Imaging and Applications: Assignment 1 
